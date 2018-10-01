@@ -1,5 +1,6 @@
 //@author: Tanveer Baba
-//@created: 22/06/2018
+//@created: 22/06/
+// sldjf;lsjdfljjas;dlfj
 //@subject: Using synchronized
 public class AccountDanger implements Runnable {
 	private Account acct = new Account();
